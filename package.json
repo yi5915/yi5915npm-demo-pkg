@@ -1,0 +1,14 @@
+{
+  "name": "yi5915npm-demo-pkg",
+  "version": "1.0.1",
+  "description": "A demo package for a video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "tony",
+  "license": "ISC"
+}
